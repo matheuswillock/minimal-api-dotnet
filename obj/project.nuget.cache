@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mn95vJ4EGuc4YaCMGaCKWPHcGxCmS9yXcPaHZYXdczDutpW08bR7yzlq0hKy3WgZxDN8TqBhgcjlGJ7WwIt0g==",
+  "dgSpecHash": "2r0MQAPHMxZu5RJw5RXf0Y7C1ZY8RGDqEfJhVKVILywRS9SFCxwEPdx0Oh8uVG5A1PGYm5aKFGT0eEfPEjomYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\develop\\minimal-api\\minimal-api.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\develop\\minimal-api-dotnet\\minimal-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

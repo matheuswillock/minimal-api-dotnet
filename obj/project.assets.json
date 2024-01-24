@@ -2306,11 +2306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\develop\\minimal-api\\minimal-api.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\develop\\minimal-api-dotnet\\minimal-api.csproj",
       "projectName": "minimal-api",
-      "projectPath": "C:\\Users\\mathe\\develop\\minimal-api\\minimal-api.csproj",
+      "projectPath": "C:\\Users\\mathe\\develop\\minimal-api-dotnet\\minimal-api.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\develop\\minimal-api\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\develop\\minimal-api-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
